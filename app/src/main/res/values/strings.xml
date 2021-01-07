@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FirebaseKotlinCRUD</string>
+    <string name="all">TODO</string>
+    <string name="name">Final fantasy VII remake</string>
+    <string name="date">2 de marzo de 2020</string>
+    <string name="title_activity_main">Video</string>
+    <string name="subtitle_activity_main">2020</string>
+    <string name="title_activity_add">Edit </string>
+    <string name="title_activity_edit">Data </string>
+    <string name="name_form">Nama</string>
+    <string name="date_form">tanggal</string>
+    <string name="url_form">Url image</string>
+    <string name="description_form">Descripción</string>
+    <string name="save">Simpan</string>
+    <string name="description">Final Fantasy.</string>
+</resources>
